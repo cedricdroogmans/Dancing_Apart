@@ -13,6 +13,9 @@ Using a polarplotter to trace the hand movement of a dancer that is in a differe
 Everything that is happening online is programed in the p5.js webeditor.
 Using Node.js to setup a server socket.io to create the websockets to comunictate between the different clients, and ngrok to tunnel the port of the server. To comunicate between the arduino and the DrawBot side we are using p5.serialcontrol.
 
+![GitHub Logo](/images/SWD01.jpeg)
+Format: ![Alt Text](url)
+
 Dancers side:
 https://editor.p5js.org/Cedric.Droogmans/sketches/syienGx0-
 
