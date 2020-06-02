@@ -6,6 +6,7 @@ This project was developed by Cedric Droogmans, Luis Jayme Buerba, Elena Jaramaz
 # Concept
 
 Using a polarplotter to trace the hand movement of a dancer that is in a different location then then the polarplotter.
+![alt text](https://github.com/cedricdroogmans/Dancing_Apart/blob/master/images/concept.jpg)
 
 
 # Software
@@ -21,6 +22,9 @@ https://editor.p5js.org/Cedric.Droogmans/sketches/syienGx0-
 DrawBot side:
 https://editor.p5js.org/Cedric.Droogmans/sketches/MUZqmLO2C
 
+Arduino code:
+![alt text](https://github.com/cedricdroogmans/Dancing_Apart/blob/master/images/arduino_code.jpg)
+
 
 # Hardware 
 
@@ -32,7 +36,8 @@ Jumper wires
 Arduino UNO
 Shield stepper motor
 Servo motor
-
+![alt text](https://github.com/cedricdroogmans/Dancing_Apart/blob/master/images/arduino.jpg)
+![alt text](https://github.com/cedricdroogmans/Dancing_Apart/blob/master/images/drawbot.jpg)
 
 # Use
 
