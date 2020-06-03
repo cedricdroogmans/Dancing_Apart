@@ -9,14 +9,14 @@
 
 # Concept
 
-Using a polarplotter to trace the hand movement of a dancer that is in a different location then then the polarplotter.
+Using a polarplotter to trace the hand movement of a dancer that is in a different location then the polarplotter.
 ![alt text](https://github.com/cedricdroogmans/Dancing_Apart/blob/master/images/concept.jpg)
 
 
 # Software
 
 Everything that is happening online is programed in the p5.js webeditor.
-Using Node.js to setup a server socket.io to create the websockets to comunictate between the different clients, and ngrok to tunnel the port of the server. To comunicate between the arduino and the DrawBot side we are using p5.serialcontrol.
+Using Node.js to setup a server, socket.io to create the websockets to comunictate between the different clients, and ngrok to tunnel the port of the server. To comunicate between the arduino and the DrawBot side we are using p5.serialcontrol.
 
 ![alt text](https://github.com/cedricdroogmans/Dancing_Apart/blob/master/images/SWD_01.jpg)
 
