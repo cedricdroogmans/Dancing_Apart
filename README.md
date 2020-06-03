@@ -1,7 +1,9 @@
 # Dancing_Apart
 
 **Dancing_Apart** is a project of IaaC, Institute for Advanced Architecture of Catalonia, developed at Master in Robotics and Advanced Construction in 2019-2020
+
 **Students:** Cedric Droogmans, Luis Jayme Buerba, Elena Jaramazovic and Lorenzo Masini
+
 **Faculty:** Angel Muñoz and Agustina Palazzo
 
 
